@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+streamlit
+requests
+beautifulsoup4
+openai   # or azure-ai-inference / Groq etc, depending on what they allow
+tqdm
+faiss-cpu
+python-dotenv
