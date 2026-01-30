@@ -1,2 +1,4 @@
 venv/
+.env__pycache__/
+*.pkl
 .env

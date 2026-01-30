@@ -3,6 +3,9 @@ FROM python:3.12-slim
 # Set working directory
 WORKDIR /app
 
+# Add the main folder to Python path so it finds 'agents'
+ENV PYTHONPATH=/app
+
 # Copy all files
 COPY . .
 
