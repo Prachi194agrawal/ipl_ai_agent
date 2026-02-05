@@ -726,7 +726,7 @@ SOFTWARE.
 
 | Metric | Value |
 |--------|-------|
-| ML Model Accuracy | 75.2% |
+| ML Model Accuracy | 53 |
 | RAG Retrieval Precision@3 | 88% |
 | Average Response Time | 2.3s |
 | Historical Matches Indexed | 500+ |
