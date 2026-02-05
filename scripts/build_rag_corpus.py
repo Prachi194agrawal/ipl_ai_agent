@@ -1,16 +1,8 @@
-import pandas as pd
-from tqdm import tqdm
-import json, os
-
-matches = pd.read_csv("data/matches.csv")
-
-os.makedirs("rag_corpus", exist_ok=True)
 with open("rag_corpus/matches.jsonl", "w") as f:
-    for _, row in tqdm(matches.iterrows(), total=len(matches)):
+    for i, row in df.head(500).iterrows():  # limit for demo; extend later
         text = (
-            f"Season {row['season']}: {row['team1']} vs {row['team2']} at "
-            f"{row['venue']}. Winner: {row['winner']}. Toss: {row['toss_winner']} "
-            f"chose {row['toss_decision']}."
+            f"Match: {row['team1']} vs {row['team2']} at {row['venue']}. "
+            f"Winner: {row['winner']}. Toss: {row['toss_winner']} chose {row['toss_decision']}."
         )
-        doc = {"id": int(row["id"]), "text": text}
-        f.write(json.dumps(doc) + "\n")
+        obj = {"id": int(i), "text": text}
+        f.write(json.dumps(obj) + "\n")
