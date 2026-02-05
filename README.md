@@ -95,7 +95,7 @@
                     │  XGBoost Classifier│
                     │  • team1, team2   │
                     │  • venue, toss    │
-                    │  • 75%+ accuracy  │
+                    │  • 53%+ accuracy  │
                     └────────┬──────────┘
                              │
                     ┌────────▼──────────┐
