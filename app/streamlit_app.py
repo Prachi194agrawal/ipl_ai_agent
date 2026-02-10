@@ -163,8 +163,9 @@ if st.button("🚀 Predict & Analyze"):
         toss_winner_val = team_encoder.transform([toss_winner_name])[0]
         toss_bat_val = 1 if toss_decision == "Bat" else 0
         
+        # Match exact feature order from training: team1_enc, team2_enc, toss_winner_enc, toss_bat, venue_enc
         input_data = pd.DataFrame([[t1_val, t2_val, toss_winner_val, toss_bat_val, venue_val]], 
-                                  columns=['team1', 'team2', 'toss_winner', 'toss_bat', 'venue'])
+                                  columns=['team1_enc', 'team2_enc', 'toss_winner_enc', 'toss_bat', 'venue_enc'])
         
         # B. Get Prediction
         proba = model.predict_proba(input_data)[:, 1][0] # Probability of Team 1 winning

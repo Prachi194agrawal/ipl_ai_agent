@@ -1,5 +1,500 @@
-{"id": 1, "text": "2019 Final: MI vs CSK at Hyderabad. MI won by 1 run. Toss: MI chose bat."}
-{"id": 2, "text": "2018 Final: CSK vs SRH at Wankhede. CSK won by 8 wickets. Toss: SRH chose bowl."}
-{"id": 3, "text": "Wankhede Stadium: Batting friendly, avg 1st innings 175. Spin gets help later."}
-{"id": 4, "text": "CSK vs MI head-to-head: MI leads 20-18 in 38 matches. Close rivalry."}
-{"id": 5, "text": "Chinnaswamy: High scoring venue. Dew factor favors chasing team."}
+{"id": 0, "text": "Match: Sunrisers Hyderabad vs Royal Challengers Bangalore at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Royal Challengers Bangalore chose field."}
+{"id": 1, "text": "Match: Mumbai Indians vs Rising Pune Supergiant at Maharashtra Cricket Association Stadium. Winner: Rising Pune Supergiant. Toss: Rising Pune Supergiant chose field."}
+{"id": 2, "text": "Match: Gujarat Lions vs Kolkata Knight Riders at Saurashtra Cricket Association Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 3, "text": "Match: Rising Pune Supergiant vs Kings XI Punjab at Holkar Cricket Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 4, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 5, "text": "Match: Gujarat Lions vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Sunrisers Hyderabad chose field."}
+{"id": 6, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 7, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at Holkar Cricket Stadium. Winner: Kings XI Punjab. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 8, "text": "Match: Delhi Daredevils vs Rising Pune Supergiant at Maharashtra Cricket Association Stadium. Winner: Delhi Daredevils. Toss: Rising Pune Supergiant chose field."}
+{"id": 9, "text": "Match: Sunrisers Hyderabad vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 10, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 11, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 12, "text": "Match: Rising Pune Supergiant vs Gujarat Lions at Saurashtra Cricket Association Stadium. Winner: Gujarat Lions. Toss: Gujarat Lions chose field."}
+{"id": 13, "text": "Match: Kolkata Knight Riders vs Sunrisers Hyderabad at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Sunrisers Hyderabad chose field."}
+{"id": 14, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 15, "text": "Match: Gujarat Lions vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 16, "text": "Match: Rising Pune Supergiant vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Rising Pune Supergiant. Toss: Royal Challengers Bangalore chose field."}
+{"id": 17, "text": "Match: Delhi Daredevils vs Kolkata Knight Riders at Feroz Shah Kotla. Winner: Kolkata Knight Riders. Toss: Delhi Daredevils chose bat."}
+{"id": 18, "text": "Match: Sunrisers Hyderabad vs Kings XI Punjab at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Kings XI Punjab chose field."}
+{"id": 19, "text": "Match: Royal Challengers Bangalore vs Gujarat Lions at Saurashtra Cricket Association Stadium. Winner: Royal Challengers Bangalore. Toss: Gujarat Lions chose field."}
+{"id": 20, "text": "Match: Sunrisers Hyderabad vs Delhi Daredevils at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 21, "text": "Match: Kings XI Punjab vs Mumbai Indians at Holkar Cricket Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 22, "text": "Match: Kolkata Knight Riders vs Gujarat Lions at Eden Gardens. Winner: Gujarat Lions. Toss: Gujarat Lions chose field."}
+{"id": 23, "text": "Match: Mumbai Indians vs Delhi Daredevils at Wankhede Stadium. Winner: Mumbai Indians. Toss: Delhi Daredevils chose field."}
+{"id": 24, "text": "Match: Sunrisers Hyderabad vs Rising Pune Supergiant at Maharashtra Cricket Association Stadium. Winner: Rising Pune Supergiant. Toss: Rising Pune Supergiant chose field."}
+{"id": 25, "text": "Match: Kings XI Punjab vs Gujarat Lions at Saurashtra Cricket Association Stadium. Winner: Kings XI Punjab. Toss: Gujarat Lions chose field."}
+{"id": 26, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Royal Challengers Bangalore chose field."}
+{"id": 27, "text": "Match: Rising Pune Supergiant vs Mumbai Indians at Wankhede Stadium. Winner: Rising Pune Supergiant. Toss: Mumbai Indians chose field."}
+{"id": 28, "text": "Match: Rising Pune Supergiant vs Kolkata Knight Riders at Maharashtra Cricket Association Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 29, "text": "Match: Royal Challengers Bangalore vs Gujarat Lions at M Chinnaswamy Stadium. Winner: Gujarat Lions. Toss: Gujarat Lions chose field."}
+{"id": 30, "text": "Match: Delhi Daredevils vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 31, "text": "Match: Sunrisers Hyderabad vs Kings XI Punjab at Punjab Cricket Association IS Bindra Stadium, Mohali. Winner: Sunrisers Hyderabad. Toss: Kings XI Punjab chose field."}
+{"id": 32, "text": "Match: Rising Pune Supergiant vs Royal Challengers Bangalore at Maharashtra Cricket Association Stadium. Winner: Rising Pune Supergiant. Toss: Royal Challengers Bangalore chose field."}
+{"id": 33, "text": "Match: Gujarat Lions vs Mumbai Indians at Saurashtra Cricket Association Stadium. Winner: Mumbai Indians. Toss: Gujarat Lions chose bat."}
+{"id": 34, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Punjab Cricket Association IS Bindra Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 35, "text": "Match: Sunrisers Hyderabad vs Kolkata Knight Riders at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Kolkata Knight Riders chose field."}
+{"id": 36, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 37, "text": "Match: Gujarat Lions vs Rising Pune Supergiant at Maharashtra Cricket Association Stadium. Winner: Rising Pune Supergiant. Toss: Rising Pune Supergiant chose field."}
+{"id": 38, "text": "Match: Sunrisers Hyderabad vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 39, "text": "Match: Kolkata Knight Riders vs Rising Pune Supergiant at Eden Gardens. Winner: Rising Pune Supergiant. Toss: Rising Pune Supergiant chose field."}
+{"id": 40, "text": "Match: Gujarat Lions vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 41, "text": "Match: Kings XI Punjab vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Kings XI Punjab. Toss: Royal Challengers Bangalore chose field."}
+{"id": 42, "text": "Match: Rising Pune Supergiant vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Rising Pune Supergiant. Toss: Sunrisers Hyderabad chose field."}
+{"id": 43, "text": "Match: Mumbai Indians vs Delhi Daredevils at Feroz Shah Kotla. Winner: Mumbai Indians. Toss: Delhi Daredevils chose field."}
+{"id": 44, "text": "Match: Royal Challengers Bangalore vs Kolkata Knight Riders at M Chinnaswamy Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 45, "text": "Match: Kings XI Punjab vs Gujarat Lions at Punjab Cricket Association IS Bindra Stadium, Mohali. Winner: Gujarat Lions. Toss: Gujarat Lions chose field."}
+{"id": 46, "text": "Match: Mumbai Indians vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Mumbai Indians chose bat."}
+{"id": 47, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Punjab Cricket Association IS Bindra Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kolkata Knight Riders chose field."}
+{"id": 48, "text": "Match: Gujarat Lions vs Delhi Daredevils at Green Park. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 49, "text": "Match: Kings XI Punjab vs Mumbai Indians at Wankhede Stadium. Winner: Kings XI Punjab. Toss: Mumbai Indians chose field."}
+{"id": 50, "text": "Match: Delhi Daredevils vs Rising Pune Supergiant at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 51, "text": "Match: Gujarat Lions vs Sunrisers Hyderabad at Green Park. Winner: Sunrisers Hyderabad. Toss: Sunrisers Hyderabad chose field."}
+{"id": 52, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at Eden Gardens. Winner: Mumbai Indians. Toss: Kolkata Knight Riders chose field."}
+{"id": 53, "text": "Match: Kings XI Punjab vs Rising Pune Supergiant at Maharashtra Cricket Association Stadium. Winner: Rising Pune Supergiant. Toss: Rising Pune Supergiant chose field."}
+{"id": 54, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at Feroz Shah Kotla. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 55, "text": "Match: Rising Pune Supergiant vs Mumbai Indians at Wankhede Stadium. Winner: Rising Pune Supergiant. Toss: Mumbai Indians chose field."}
+{"id": 56, "text": "Match: Sunrisers Hyderabad vs Kolkata Knight Riders at M Chinnaswamy Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 57, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 58, "text": "Match: Mumbai Indians vs Rising Pune Supergiant at Rajiv Gandhi International Stadium, Uppal. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 59, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Kolkata Knight Riders. Toss: Royal Challengers Bangalore chose field."}
+{"id": 60, "text": "Match: Chennai Super Kings vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 61, "text": "Match: Rajasthan Royals vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Rajasthan Royals chose bat."}
+{"id": 62, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Wankhede Stadium. Winner: Royal Challengers Bangalore. Toss: Mumbai Indians chose bat."}
+{"id": 63, "text": "Match: Deccan Chargers vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Deccan Chargers chose bat."}
+{"id": 64, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Kings XI Punjab chose bat."}
+{"id": 65, "text": "Match: Deccan Chargers vs Delhi Daredevils at Rajiv Gandhi International Stadium, Uppal. Winner: Delhi Daredevils. Toss: Deccan Chargers chose bat."}
+{"id": 66, "text": "Match: Chennai Super Kings vs Mumbai Indians at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Mumbai Indians chose field."}
+{"id": 67, "text": "Match: Deccan Chargers vs Rajasthan Royals at Rajiv Gandhi International Stadium, Uppal. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 68, "text": "Match: Kings XI Punjab vs Mumbai Indians at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Mumbai Indians chose field."}
+{"id": 69, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at M Chinnaswamy Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 70, "text": "Match: Kolkata Knight Riders vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Kolkata Knight Riders chose bat."}
+{"id": 71, "text": "Match: Mumbai Indians vs Deccan Chargers at Dr DY Patil Sports Academy. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 72, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Delhi Daredevils chose bat."}
+{"id": 73, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 74, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Eden Gardens. Winner: Mumbai Indians. Toss: Kolkata Knight Riders chose bat."}
+{"id": 75, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Royal Challengers Bangalore chose field."}
+{"id": 76, "text": "Match: Deccan Chargers vs Kings XI Punjab at Rajiv Gandhi International Stadium, Uppal. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 77, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 78, "text": "Match: Chennai Super Kings vs Delhi Daredevils at MA Chidambaram Stadium, Chepauk. Winner: Delhi Daredevils. Toss: Chennai Super Kings chose bat."}
+{"id": 79, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at Rajiv Gandhi International Stadium, Uppal. Winner: Royal Challengers Bangalore. Toss: Deccan Chargers chose bat."}
+{"id": 80, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose bat."}
+{"id": 81, "text": "Match: Mumbai Indians vs Delhi Daredevils at Dr DY Patil Sports Academy. Winner: Mumbai Indians. Toss: Delhi Daredevils chose field."}
+{"id": 82, "text": "Match: Chennai Super Kings vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Chennai Super Kings chose bat."}
+{"id": 83, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at M Chinnaswamy Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 84, "text": "Match: Chennai Super Kings vs Deccan Chargers at MA Chidambaram Stadium, Chepauk. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 85, "text": "Match: Rajasthan Royals vs Mumbai Indians at Dr DY Patil Sports Academy. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 86, "text": "Match: Delhi Daredevils vs Chennai Super Kings at Feroz Shah Kotla. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 87, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 88, "text": "Match: Deccan Chargers vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 89, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 90, "text": "Match: Chennai Super Kings vs Kings XI Punjab at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Kings XI Punjab chose field."}
+{"id": 91, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at Rajiv Gandhi International Stadium, Uppal. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 92, "text": "Match: Delhi Daredevils vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 93, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 94, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 95, "text": "Match: Chennai Super Kings vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 96, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Rajasthan Royals chose field."}
+{"id": 97, "text": "Match: Delhi Daredevils vs Deccan Chargers at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Deccan Chargers chose field."}
+{"id": 98, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 99, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Feroz Shah Kotla. Winner: Kings XI Punjab. Toss: Delhi Daredevils chose bat."}
+{"id": 100, "text": "Match: Rajasthan Royals vs Royal Challengers Bangalore at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Royal Challengers Bangalore chose field."}
+{"id": 101, "text": "Match: Mumbai Indians vs Deccan Chargers at Rajiv Gandhi International Stadium, Uppal. Winner: Mumbai Indians. Toss: Deccan Chargers chose field."}
+{"id": 102, "text": "Match: Kolkata Knight Riders vs Chennai Super Kings at Eden Gardens. Winner: Chennai Super Kings. Toss: Kolkata Knight Riders chose bat."}
+{"id": 103, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at M Chinnaswamy Stadium. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 104, "text": "Match: Kolkata Knight Riders vs Rajasthan Royals at Eden Gardens. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 105, "text": "Match: Kings XI Punjab vs Mumbai Indians at Wankhede Stadium. Winner: Kings XI Punjab. Toss: Mumbai Indians chose field."}
+{"id": 106, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 107, "text": "Match: Deccan Chargers vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 108, "text": "Match: Mumbai Indians vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 109, "text": "Match: Rajasthan Royals vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 110, "text": "Match: Royal Challengers Bangalore vs Deccan Chargers at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Deccan Chargers chose field."}
+{"id": 111, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kings XI Punjab chose bat."}
+{"id": 112, "text": "Match: Mumbai Indians vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 113, "text": "Match: Deccan Chargers vs Chennai Super Kings at Rajiv Gandhi International Stadium, Uppal. Winner: Chennai Super Kings. Toss: Deccan Chargers chose bat."}
+{"id": 114, "text": "Match: Rajasthan Royals vs Delhi Daredevils at Wankhede Stadium. Winner: Rajasthan Royals. Toss: Delhi Daredevils chose field."}
+{"id": 115, "text": "Match: Kings XI Punjab vs Chennai Super Kings at Wankhede Stadium. Winner: Chennai Super Kings. Toss: Kings XI Punjab chose bat."}
+{"id": 116, "text": "Match: Chennai Super Kings vs Rajasthan Royals at Dr DY Patil Sports Academy. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 117, "text": "Match: Mumbai Indians vs Chennai Super Kings at Newlands. Winner: Mumbai Indians. Toss: Chennai Super Kings chose field."}
+{"id": 118, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at Newlands. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 119, "text": "Match: Kings XI Punjab vs Delhi Daredevils at Newlands. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 120, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at Newlands. Winner: Deccan Chargers. Toss: Kolkata Knight Riders chose bat."}
+{"id": 121, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at St George's Park. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 122, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Kingsmead. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 123, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at Newlands. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 124, "text": "Match: Delhi Daredevils vs Chennai Super Kings at Kingsmead. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 125, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Newlands. Winner: Rajasthan Royals. Toss: Kolkata Knight Riders chose field."}
+{"id": 126, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at Kingsmead. Winner: Kings XI Punjab. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 127, "text": "Match: Deccan Chargers vs Mumbai Indians at Kingsmead. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 128, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at St George's Park. Winner: Delhi Daredevils. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 129, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Newlands. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose bat."}
+{"id": 130, "text": "Match: Chennai Super Kings vs Deccan Chargers at Kingsmead. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 131, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at St George's Park. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 132, "text": "Match: Delhi Daredevils vs Rajasthan Royals at SuperSport Park. Winner: Rajasthan Royals. Toss: Delhi Daredevils chose bat."}
+{"id": 133, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at Kingsmead. Winner: Royal Challengers Bangalore. Toss: Kolkata Knight Riders chose bat."}
+{"id": 134, "text": "Match: Kings XI Punjab vs Mumbai Indians at Kingsmead. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose bat."}
+{"id": 135, "text": "Match: Deccan Chargers vs Delhi Daredevils at SuperSport Park. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 136, "text": "Match: Chennai Super Kings vs Rajasthan Royals at SuperSport Park. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose field."}
+{"id": 137, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at Buffalo Park. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 138, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at Kingsmead. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 139, "text": "Match: Deccan Chargers vs Rajasthan Royals at St George's Park. Winner: Rajasthan Royals. Toss: Deccan Chargers chose bat."}
+{"id": 140, "text": "Match: Chennai Super Kings vs Delhi Daredevils at New Wanderers Stadium. Winner: Chennai Super Kings. Toss: Delhi Daredevils chose field."}
+{"id": 141, "text": "Match: Kolkata Knight Riders vs Kings XI Punjab at St George's Park. Winner: Kings XI Punjab. Toss: Kolkata Knight Riders chose bat."}
+{"id": 142, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at New Wanderers Stadium. Winner: Royal Challengers Bangalore. Toss: Mumbai Indians chose bat."}
+{"id": 143, "text": "Match: Chennai Super Kings vs Deccan Chargers at Buffalo Park. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 144, "text": "Match: Rajasthan Royals vs Kings XI Punjab at Kingsmead. Winner: Rajasthan Royals. Toss: Kings XI Punjab chose field."}
+{"id": 145, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Kingsmead. Winner: Delhi Daredevils. Toss: Kolkata Knight Riders chose bat."}
+{"id": 146, "text": "Match: Deccan Chargers vs Mumbai Indians at SuperSport Park. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 147, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at SuperSport Park. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 148, "text": "Match: Chennai Super Kings vs Kings XI Punjab at SuperSport Park. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 149, "text": "Match: Mumbai Indians vs Delhi Daredevils at Buffalo Park. Winner: Delhi Daredevils. Toss: Mumbai Indians chose bat."}
+{"id": 150, "text": "Match: Deccan Chargers vs Kings XI Punjab at De Beers Diamond Oval. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 151, "text": "Match: Rajasthan Royals vs Chennai Super Kings at De Beers Diamond Oval. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose bat."}
+{"id": 152, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at St George's Park. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 153, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at New Wanderers Stadium. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 154, "text": "Match: Deccan Chargers vs Rajasthan Royals at De Beers Diamond Oval. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 155, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at SuperSport Park. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 156, "text": "Match: Kings XI Punjab vs Mumbai Indians at SuperSport Park. Winner: Mumbai Indians. Toss: Kings XI Punjab chose bat."}
+{"id": 157, "text": "Match: Delhi Daredevils vs Deccan Chargers at Kingsmead. Winner: Delhi Daredevils. Toss: Deccan Chargers chose field."}
+{"id": 158, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at Kingsmead. Winner: Royal Challengers Bangalore. Toss: Chennai Super Kings chose bat."}
+{"id": 159, "text": "Match: Rajasthan Royals vs Mumbai Indians at Kingsmead. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 160, "text": "Match: Delhi Daredevils vs Kings XI Punjab at OUTsurance Oval. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 161, "text": "Match: Mumbai Indians vs Chennai Super Kings at St George's Park. Winner: Chennai Super Kings. Toss: Mumbai Indians chose bat."}
+{"id": 162, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at New Wanderers Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 163, "text": "Match: Kings XI Punjab vs Deccan Chargers at New Wanderers Stadium. Winner: Kings XI Punjab. Toss: Deccan Chargers chose field."}
+{"id": 164, "text": "Match: Delhi Daredevils vs Rajasthan Royals at OUTsurance Oval. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 165, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at SuperSport Park. Winner: Kolkata Knight Riders. Toss: Chennai Super Kings chose bat."}
+{"id": 166, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at New Wanderers Stadium. Winner: Royal Challengers Bangalore. Toss: Delhi Daredevils chose bat."}
+{"id": 167, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Kingsmead. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 168, "text": "Match: Chennai Super Kings vs Kings XI Punjab at Kingsmead. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 169, "text": "Match: Mumbai Indians vs Delhi Daredevils at SuperSport Park. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 170, "text": "Match: Royal Challengers Bangalore vs Deccan Chargers at SuperSport Park. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 171, "text": "Match: Delhi Daredevils vs Deccan Chargers at SuperSport Park. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 172, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at New Wanderers Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 173, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at New Wanderers Stadium. Winner: Deccan Chargers. Toss: Royal Challengers Bangalore chose field."}
+{"id": 174, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at Dr DY Patil Sports Academy. Winner: Kolkata Knight Riders. Toss: Deccan Chargers chose field."}
+{"id": 175, "text": "Match: Mumbai Indians vs Rajasthan Royals at Brabourne Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 176, "text": "Match: Kings XI Punjab vs Delhi Daredevils at Punjab Cricket Association Stadium, Mohali. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 177, "text": "Match: Royal Challengers Bangalore vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 178, "text": "Match: Deccan Chargers vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 179, "text": "Match: Rajasthan Royals vs Delhi Daredevils at Sardar Patel Stadium, Motera. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 180, "text": "Match: Kings XI Punjab vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Kings XI Punjab chose bat."}
+{"id": 181, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at Eden Gardens. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 182, "text": "Match: Mumbai Indians vs Delhi Daredevils at Feroz Shah Kotla. Winner: Mumbai Indians. Toss: Delhi Daredevils chose field."}
+{"id": 183, "text": "Match: Rajasthan Royals vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 184, "text": "Match: Delhi Daredevils vs Chennai Super Kings at Feroz Shah Kotla. Winner: Chennai Super Kings. Toss: Delhi Daredevils chose bat."}
+{"id": 185, "text": "Match: Deccan Chargers vs Kings XI Punjab at Barabati Stadium. Winner: Deccan Chargers. Toss: Kings XI Punjab chose field."}
+{"id": 186, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sardar Patel Stadium, Motera. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 187, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Brabourne Stadium. Winner: Royal Challengers Bangalore. Toss: Mumbai Indians chose bat."}
+{"id": 188, "text": "Match: Deccan Chargers vs Delhi Daredevils at Barabati Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 189, "text": "Match: Kings XI Punjab vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Kings XI Punjab. Toss: Chennai Super Kings chose field."}
+{"id": 190, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Brabourne Stadium. Winner: Mumbai Indians. Toss: Kolkata Knight Riders chose bat."}
+{"id": 191, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Chennai Super Kings chose field."}
+{"id": 192, "text": "Match: Rajasthan Royals vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Rajasthan Royals. Toss: Kings XI Punjab chose field."}
+{"id": 193, "text": "Match: Chennai Super Kings vs Mumbai Indians at Brabourne Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 194, "text": "Match: Deccan Chargers vs Rajasthan Royals at Sardar Patel Stadium, Motera. Winner: Rajasthan Royals. Toss: Deccan Chargers chose bat."}
+{"id": 195, "text": "Match: Kolkata Knight Riders vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 196, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Delhi Daredevils. Toss: Royal Challengers Bangalore chose field."}
+{"id": 197, "text": "Match: Rajasthan Royals vs Chennai Super Kings at Sardar Patel Stadium, Motera. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 198, "text": "Match: Mumbai Indians vs Deccan Chargers at Dr DY Patil Sports Academy. Winner: Mumbai Indians. Toss: Deccan Chargers chose field."}
+{"id": 199, "text": "Match: Delhi Daredevils vs Kolkata Knight Riders at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 200, "text": "Match: Kings XI Punjab vs Mumbai Indians at Brabourne Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 201, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 202, "text": "Match: Delhi Daredevils vs Rajasthan Royals at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 203, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 204, "text": "Match: Kings XI Punjab vs Royal Challengers Bangalore at Punjab Cricket Association Stadium, Mohali. Winner: Royal Challengers Bangalore. Toss: Kings XI Punjab chose bat."}
+{"id": 205, "text": "Match: Chennai Super Kings vs Rajasthan Royals at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 206, "text": "Match: Mumbai Indians vs Deccan Chargers at Brabourne Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 207, "text": "Match: Kolkata Knight Riders vs Kings XI Punjab at Eden Gardens. Winner: Kings XI Punjab. Toss: Kolkata Knight Riders chose bat."}
+{"id": 208, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 209, "text": "Match: Rajasthan Royals vs Deccan Chargers at Vidarbha Cricket Association Stadium, Jamtha. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 210, "text": "Match: Chennai Super Kings vs Mumbai Indians at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 211, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Kings XI Punjab chose bat."}
+{"id": 212, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 213, "text": "Match: Royal Challengers Bangalore vs Deccan Chargers at M Chinnaswamy Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 214, "text": "Match: Mumbai Indians vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Mumbai Indians chose bat."}
+{"id": 215, "text": "Match: Chennai Super Kings vs Deccan Chargers at Vidarbha Cricket Association Stadium, Jamtha. Winner: Deccan Chargers. Toss: Chennai Super Kings chose bat."}
+{"id": 216, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 217, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Feroz Shah Kotla. Winner: Kings XI Punjab. Toss: Delhi Daredevils chose bat."}
+{"id": 218, "text": "Match: Mumbai Indians vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Mumbai Indians. Toss: Rajasthan Royals chose field."}
+{"id": 219, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at Vidarbha Cricket Association Stadium, Jamtha. Winner: Deccan Chargers. Toss: Royal Challengers Bangalore chose field."}
+{"id": 220, "text": "Match: Mumbai Indians vs Delhi Daredevils at Brabourne Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 221, "text": "Match: Kolkata Knight Riders vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Kolkata Knight Riders chose bat."}
+{"id": 222, "text": "Match: Rajasthan Royals vs Royal Challengers Bangalore at Sawai Mansingh Stadium. Winner: Royal Challengers Bangalore. Toss: Rajasthan Royals chose bat."}
+{"id": 223, "text": "Match: Chennai Super Kings vs Delhi Daredevils at MA Chidambaram Stadium, Chepauk. Winner: Delhi Daredevils. Toss: Chennai Super Kings chose bat."}
+{"id": 224, "text": "Match: Kings XI Punjab vs Deccan Chargers at Himachal Pradesh Cricket Association Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 225, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Mumbai Indians. Toss: Royal Challengers Bangalore chose field."}
+{"id": 226, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Rajasthan Royals chose bat."}
+{"id": 227, "text": "Match: Kings XI Punjab vs Chennai Super Kings at Himachal Pradesh Cricket Association Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 228, "text": "Match: Deccan Chargers vs Delhi Daredevils at Feroz Shah Kotla. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 229, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Mumbai Indians chose bat."}
+{"id": 230, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Dr DY Patil Sports Academy. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 231, "text": "Match: Chennai Super Kings vs Deccan Chargers at Dr DY Patil Sports Academy. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 232, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at Dr DY Patil Sports Academy. Winner: Royal Challengers Bangalore. Toss: Deccan Chargers chose bat."}
+{"id": 233, "text": "Match: Chennai Super Kings vs Mumbai Indians at Dr DY Patil Sports Academy. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 234, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 235, "text": "Match: Deccan Chargers vs Rajasthan Royals at Rajiv Gandhi International Stadium, Uppal. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 236, "text": "Match: Kochi Tuskers Kerala vs Royal Challengers Bangalore at Nehru Stadium. Winner: Royal Challengers Bangalore. Toss: Kochi Tuskers Kerala chose bat."}
+{"id": 237, "text": "Match: Delhi Daredevils vs Mumbai Indians at Feroz Shah Kotla. Winner: Mumbai Indians. Toss: Delhi Daredevils chose bat."}
+{"id": 238, "text": "Match: Kings XI Punjab vs Pune Warriors at Dr DY Patil Sports Academy. Winner: Pune Warriors. Toss: Kings XI Punjab chose bat."}
+{"id": 239, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 240, "text": "Match: Delhi Daredevils vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Delhi Daredevils chose bat."}
+{"id": 241, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 242, "text": "Match: Chennai Super Kings vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 243, "text": "Match: Kochi Tuskers Kerala vs Pune Warriors at Dr DY Patil Sports Academy. Winner: Pune Warriors. Toss: Kochi Tuskers Kerala chose bat."}
+{"id": 244, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at Rajiv Gandhi International Stadium, Uppal. Winner: Deccan Chargers. Toss: Royal Challengers Bangalore chose field."}
+{"id": 245, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sawai Mansingh Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 246, "text": "Match: Mumbai Indians vs Kochi Tuskers Kerala at Wankhede Stadium. Winner: Kochi Tuskers Kerala. Toss: Kochi Tuskers Kerala chose field."}
+{"id": 247, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 248, "text": "Match: Deccan Chargers vs Kings XI Punjab at Rajiv Gandhi International Stadium, Uppal. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 249, "text": "Match: Pune Warriors vs Delhi Daredevils at Dr DY Patil Sports Academy. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 250, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 251, "text": "Match: Chennai Super Kings vs Kochi Tuskers Kerala at Nehru Stadium. Winner: Kochi Tuskers Kerala. Toss: Kochi Tuskers Kerala chose field."}
+{"id": 252, "text": "Match: Deccan Chargers vs Delhi Daredevils at Feroz Shah Kotla. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 253, "text": "Match: Pune Warriors vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Pune Warriors chose bat."}
+{"id": 254, "text": "Match: Kochi Tuskers Kerala vs Kolkata Knight Riders at Eden Gardens. Winner: Kochi Tuskers Kerala. Toss: Kolkata Knight Riders chose field."}
+{"id": 255, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Rajasthan Royals chose field."}
+{"id": 256, "text": "Match: Mumbai Indians vs Chennai Super Kings at Wankhede Stadium. Winner: Mumbai Indians. Toss: Chennai Super Kings chose field."}
+{"id": 257, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at Eden Gardens. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 258, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Kings XI Punjab chose field."}
+{"id": 259, "text": "Match: Mumbai Indians vs Deccan Chargers at Rajiv Gandhi International Stadium, Uppal. Winner: Mumbai Indians. Toss: Deccan Chargers chose field."}
+{"id": 260, "text": "Match: Kochi Tuskers Kerala vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 261, "text": "Match: Chennai Super Kings vs Pune Warriors at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Pune Warriors chose field."}
+{"id": 262, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at Feroz Shah Kotla. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 263, "text": "Match: Pune Warriors vs Chennai Super Kings at Dr DY Patil Sports Academy. Winner: Chennai Super Kings. Toss: Pune Warriors chose bat."}
+{"id": 264, "text": "Match: Deccan Chargers vs Kochi Tuskers Kerala at Nehru Stadium. Winner: Deccan Chargers. Toss: Kochi Tuskers Kerala chose field."}
+{"id": 265, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Feroz Shah Kotla. Winner: Kolkata Knight Riders. Toss: Delhi Daredevils chose field."}
+{"id": 266, "text": "Match: Mumbai Indians vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 267, "text": "Match: Royal Challengers Bangalore vs Pune Warriors at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Pune Warriors chose field."}
+{"id": 268, "text": "Match: Delhi Daredevils vs Kochi Tuskers Kerala at Nehru Stadium. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 269, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 270, "text": "Match: Pune Warriors vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 271, "text": "Match: Chennai Super Kings vs Deccan Chargers at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 272, "text": "Match: Mumbai Indians vs Kings XI Punjab at Wankhede Stadium. Winner: Mumbai Indians. Toss: Kings XI Punjab chose field."}
+{"id": 273, "text": "Match: Delhi Daredevils vs Kochi Tuskers Kerala at Feroz Shah Kotla. Winner: Kochi Tuskers Kerala. Toss: Kochi Tuskers Kerala chose field."}
+{"id": 274, "text": "Match: Kolkata Knight Riders vs Deccan Chargers at Rajiv Gandhi International Stadium, Uppal. Winner: Kolkata Knight Riders. Toss: Deccan Chargers chose field."}
+{"id": 275, "text": "Match: Rajasthan Royals vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose bat."}
+{"id": 276, "text": "Match: Mumbai Indians vs Pune Warriors at Dr DY Patil Sports Academy. Winner: Mumbai Indians. Toss: Pune Warriors chose field."}
+{"id": 277, "text": "Match: Kochi Tuskers Kerala vs Kolkata Knight Riders at Nehru Stadium. Winner: Kochi Tuskers Kerala. Toss: Kolkata Knight Riders chose field."}
+{"id": 278, "text": "Match: Deccan Chargers vs Delhi Daredevils at Rajiv Gandhi International Stadium, Uppal. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 279, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Kings XI Punjab chose field."}
+{"id": 280, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Chennai Super Kings chose bat."}
+{"id": 281, "text": "Match: Mumbai Indians vs Delhi Daredevils at Wankhede Stadium. Winner: Mumbai Indians. Toss: Delhi Daredevils chose field."}
+{"id": 282, "text": "Match: Kochi Tuskers Kerala vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Kochi Tuskers Kerala chose bat."}
+{"id": 283, "text": "Match: Kings XI Punjab vs Pune Warriors at Punjab Cricket Association Stadium, Mohali. Winner: Pune Warriors. Toss: Kings XI Punjab chose bat."}
+{"id": 284, "text": "Match: Chennai Super Kings vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose field."}
+{"id": 285, "text": "Match: Deccan Chargers vs Pune Warriors at Rajiv Gandhi International Stadium, Uppal. Winner: Pune Warriors. Toss: Deccan Chargers chose bat."}
+{"id": 286, "text": "Match: Kings XI Punjab vs Mumbai Indians at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Mumbai Indians chose field."}
+{"id": 287, "text": "Match: Rajasthan Royals vs Royal Challengers Bangalore at Sawai Mansingh Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 288, "text": "Match: Chennai Super Kings vs Delhi Daredevils at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 289, "text": "Match: Kochi Tuskers Kerala vs Kings XI Punjab at Holkar Cricket Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 290, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 291, "text": "Match: Deccan Chargers vs Mumbai Indians at Wankhede Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 292, "text": "Match: Kings XI Punjab vs Delhi Daredevils at Himachal Pradesh Cricket Association Stadium. Winner: Kings XI Punjab. Toss: Delhi Daredevils chose field."}
+{"id": 293, "text": "Match: Rajasthan Royals vs Kochi Tuskers Kerala at Holkar Cricket Stadium. Winner: Kochi Tuskers Kerala. Toss: Kochi Tuskers Kerala chose field."}
+{"id": 294, "text": "Match: Pune Warriors vs Deccan Chargers at Dr DY Patil Sports Academy. Winner: Deccan Chargers. Toss: Deccan Chargers chose field."}
+{"id": 295, "text": "Match: Kings XI Punjab vs Royal Challengers Bangalore at Himachal Pradesh Cricket Association Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose bat."}
+{"id": 296, "text": "Match: Chennai Super Kings vs Kochi Tuskers Kerala at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 297, "text": "Match: Pune Warriors vs Kolkata Knight Riders at Dr DY Patil Sports Academy. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 298, "text": "Match: Mumbai Indians vs Rajasthan Royals at Wankhede Stadium. Winner: Rajasthan Royals. Toss: Mumbai Indians chose bat."}
+{"id": 299, "text": "Match: Deccan Chargers vs Kings XI Punjab at Himachal Pradesh Cricket Association Stadium. Winner: Deccan Chargers. Toss: Kings XI Punjab chose field."}
+{"id": 300, "text": "Match: Delhi Daredevils vs Pune Warriors at Feroz Shah Kotla. Winner: nan. Toss: Delhi Daredevils chose bat."}
+{"id": 301, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 302, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Eden Gardens. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 303, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at Wankhede Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 304, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 305, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at MA Chidambaram Stadium, Chepauk. Winner: Royal Challengers Bangalore. Toss: Mumbai Indians chose field."}
+{"id": 306, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 307, "text": "Match: Chennai Super Kings vs Mumbai Indians at MA Chidambaram Stadium, Chepauk. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 308, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Eden Gardens. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 309, "text": "Match: Pune Warriors vs Mumbai Indians at Wankhede Stadium. Winner: Pune Warriors. Toss: Mumbai Indians chose field."}
+{"id": 310, "text": "Match: Rajasthan Royals vs Kings XI Punjab at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Kings XI Punjab chose field."}
+{"id": 311, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Delhi Daredevils chose field."}
+{"id": 312, "text": "Match: Chennai Super Kings vs Deccan Chargers at Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium. Winner: Chennai Super Kings. Toss: Deccan Chargers chose field."}
+{"id": 313, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Kolkata Knight Riders chose field."}
+{"id": 314, "text": "Match: Pune Warriors vs Kings XI Punjab at Subrata Roy Sahara Stadium. Winner: Pune Warriors. Toss: Pune Warriors chose bat."}
+{"id": 315, "text": "Match: Deccan Chargers vs Mumbai Indians at Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium. Winner: Mumbai Indians. Toss: Deccan Chargers chose bat."}
+{"id": 316, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Kolkata Knight Riders. Toss: Royal Challengers Bangalore chose field."}
+{"id": 317, "text": "Match: Chennai Super Kings vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 318, "text": "Match: Mumbai Indians vs Rajasthan Royals at Wankhede Stadium. Winner: Mumbai Indians. Toss: Rajasthan Royals chose field."}
+{"id": 319, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 320, "text": "Match: Pune Warriors vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 321, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Rajasthan Royals chose bat."}
+{"id": 322, "text": "Match: Deccan Chargers vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Deccan Chargers chose bat."}
+{"id": 323, "text": "Match: Chennai Super Kings vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Pune Warriors. Toss: Chennai Super Kings chose bat."}
+{"id": 324, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Eden Gardens. Winner: Kings XI Punjab. Toss: Kolkata Knight Riders chose field."}
+{"id": 325, "text": "Match: Rajasthan Royals vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 326, "text": "Match: Mumbai Indians vs Delhi Daredevils at Wankhede Stadium. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 327, "text": "Match: Deccan Chargers vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Deccan Chargers chose bat."}
+{"id": 328, "text": "Match: Pune Warriors vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Pune Warriors chose bat."}
+{"id": 329, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Punjab Cricket Association Stadium, Mohali. Winner: Kolkata Knight Riders. Toss: Kings XI Punjab chose bat."}
+{"id": 330, "text": "Match: Deccan Chargers vs Delhi Daredevils at Rajiv Gandhi International Stadium, Uppal. Winner: Delhi Daredevils. Toss: Deccan Chargers chose bat."}
+{"id": 331, "text": "Match: Chennai Super Kings vs Pune Warriors at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Pune Warriors chose field."}
+{"id": 332, "text": "Match: Kings XI Punjab vs Royal Challengers Bangalore at Punjab Cricket Association Stadium, Mohali. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 333, "text": "Match: Rajasthan Royals vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose bat."}
+{"id": 334, "text": "Match: Pune Warriors vs Delhi Daredevils at Feroz Shah Kotla. Winner: Pune Warriors. Toss: Delhi Daredevils chose field."}
+{"id": 335, "text": "Match: Mumbai Indians vs Kings XI Punjab at Wankhede Stadium. Winner: Kings XI Punjab. Toss: Mumbai Indians chose bat."}
+{"id": 336, "text": "Match: Deccan Chargers vs Kolkata Knight Riders at Barabati Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 337, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Royal Challengers Bangalore. Toss: Rajasthan Royals chose field."}
+{"id": 338, "text": "Match: Pune Warriors vs Delhi Daredevils at Subrata Roy Sahara Stadium. Winner: Delhi Daredevils. Toss: Pune Warriors chose bat."}
+{"id": 339, "text": "Match: Kings XI Punjab vs Mumbai Indians at Punjab Cricket Association Stadium, Mohali. Winner: Mumbai Indians. Toss: Kings XI Punjab chose bat."}
+{"id": 340, "text": "Match: Deccan Chargers vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 341, "text": "Match: Delhi Daredevils vs Mumbai Indians at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Mumbai Indians chose field."}
+{"id": 342, "text": "Match: Kings XI Punjab vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose bat."}
+{"id": 343, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 344, "text": "Match: Delhi Daredevils vs Rajasthan Royals at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose bat."}
+{"id": 345, "text": "Match: Deccan Chargers vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 346, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at MA Chidambaram Stadium, Chepauk. Winner: Kolkata Knight Riders. Toss: Chennai Super Kings chose bat."}
+{"id": 347, "text": "Match: Deccan Chargers vs Pune Warriors at Barabati Stadium. Winner: Deccan Chargers. Toss: Deccan Chargers chose bat."}
+{"id": 348, "text": "Match: Rajasthan Royals vs Delhi Daredevils at Sawai Mansingh Stadium. Winner: Delhi Daredevils. Toss: Rajasthan Royals chose bat."}
+{"id": 349, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at M Chinnaswamy Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 350, "text": "Match: Mumbai Indians vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 351, "text": "Match: Chennai Super Kings vs Deccan Chargers at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 352, "text": "Match: Kolkata Knight Riders vs Pune Warriors at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 353, "text": "Match: Rajasthan Royals vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 354, "text": "Match: Chennai Super Kings vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 355, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 356, "text": "Match: Delhi Daredevils vs Kolkata Knight Riders at Feroz Shah Kotla. Winner: Kolkata Knight Riders. Toss: Delhi Daredevils chose bat."}
+{"id": 357, "text": "Match: Pune Warriors vs Rajasthan Royals at Subrata Roy Sahara Stadium. Winner: Rajasthan Royals. Toss: Pune Warriors chose bat."}
+{"id": 358, "text": "Match: Kings XI Punjab vs Deccan Chargers at Rajiv Gandhi International Stadium, Uppal. Winner: Kings XI Punjab. Toss: Deccan Chargers chose field."}
+{"id": 359, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Wankhede Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 360, "text": "Match: Rajasthan Royals vs Chennai Super Kings at Sawai Mansingh Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 361, "text": "Match: Royal Challengers Bangalore vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Royal Challengers Bangalore. Toss: Pune Warriors chose field."}
+{"id": 362, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at Eden Gardens. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 363, "text": "Match: Delhi Daredevils vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 364, "text": "Match: Rajasthan Royals vs Pune Warriors at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 365, "text": "Match: Deccan Chargers vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Deccan Chargers chose bat."}
+{"id": 366, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose field."}
+{"id": 367, "text": "Match: Kolkata Knight Riders vs Chennai Super Kings at Eden Gardens. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 368, "text": "Match: Kings XI Punjab vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Kings XI Punjab chose bat."}
+{"id": 369, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Wankhede Stadium. Winner: Kolkata Knight Riders. Toss: Mumbai Indians chose field."}
+{"id": 370, "text": "Match: Chennai Super Kings vs Kings XI Punjab at Himachal Pradesh Cricket Association Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 371, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at Feroz Shah Kotla. Winner: Royal Challengers Bangalore. Toss: Delhi Daredevils chose field."}
+{"id": 372, "text": "Match: Rajasthan Royals vs Deccan Chargers at Rajiv Gandhi International Stadium, Uppal. Winner: Deccan Chargers. Toss: Rajasthan Royals chose bat."}
+{"id": 373, "text": "Match: Kings XI Punjab vs Delhi Daredevils at Himachal Pradesh Cricket Association Stadium. Winner: Delhi Daredevils. Toss: Delhi Daredevils chose field."}
+{"id": 374, "text": "Match: Kolkata Knight Riders vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 375, "text": "Match: Deccan Chargers vs Royal Challengers Bangalore at Rajiv Gandhi International Stadium, Uppal. Winner: Deccan Chargers. Toss: Royal Challengers Bangalore chose field."}
+{"id": 376, "text": "Match: Rajasthan Royals vs Mumbai Indians at Sawai Mansingh Stadium. Winner: Mumbai Indians. Toss: Rajasthan Royals chose bat."}
+{"id": 377, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Subrata Roy Sahara Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 378, "text": "Match: Chennai Super Kings vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Chennai Super Kings. Toss: Mumbai Indians chose field."}
+{"id": 379, "text": "Match: Chennai Super Kings vs Delhi Daredevils at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Delhi Daredevils chose field."}
+{"id": 380, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at MA Chidambaram Stadium, Chepauk. Winner: Kolkata Knight Riders. Toss: Chennai Super Kings chose bat."}
+{"id": 381, "text": "Match: Delhi Daredevils vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 382, "text": "Match: Royal Challengers Bangalore vs Mumbai Indians at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Mumbai Indians chose field."}
+{"id": 383, "text": "Match: Sunrisers Hyderabad vs Pune Warriors at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Pune Warriors chose field."}
+{"id": 384, "text": "Match: Rajasthan Royals vs Delhi Daredevils at Feroz Shah Kotla. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 385, "text": "Match: Mumbai Indians vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 386, "text": "Match: Pune Warriors vs Kings XI Punjab at Subrata Roy Sahara Stadium. Winner: Kings XI Punjab. Toss: Pune Warriors chose bat."}
+{"id": 387, "text": "Match: Royal Challengers Bangalore vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 388, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Kolkata Knight Riders chose field."}
+{"id": 389, "text": "Match: Mumbai Indians vs Delhi Daredevils at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 390, "text": "Match: Kings XI Punjab vs Chennai Super Kings at Punjab Cricket Association Stadium, Mohali. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 391, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 392, "text": "Match: Rajasthan Royals vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Pune Warriors. Toss: Rajasthan Royals chose bat."}
+{"id": 393, "text": "Match: Delhi Daredevils vs Sunrisers Hyderabad at Feroz Shah Kotla. Winner: Sunrisers Hyderabad. Toss: Delhi Daredevils chose bat."}
+{"id": 394, "text": "Match: Mumbai Indians vs Pune Warriors at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 395, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 396, "text": "Match: Kolkata Knight Riders vs Sunrisers Hyderabad at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 397, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 398, "text": "Match: Pune Warriors vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Pune Warriors. Toss: Pune Warriors chose bat."}
+{"id": 399, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kolkata Knight Riders chose field."}
+{"id": 400, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 401, "text": "Match: Sunrisers Hyderabad vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Sunrisers Hyderabad. Toss: Pune Warriors chose field."}
+{"id": 402, "text": "Match: Rajasthan Royals vs Mumbai Indians at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 403, "text": "Match: Chennai Super Kings vs Delhi Daredevils at Feroz Shah Kotla. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 404, "text": "Match: Kings XI Punjab vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Kings XI Punjab chose bat."}
+{"id": 405, "text": "Match: Kolkata Knight Riders vs Chennai Super Kings at Eden Gardens. Winner: Chennai Super Kings. Toss: Kolkata Knight Riders chose bat."}
+{"id": 406, "text": "Match: Rajasthan Royals vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 407, "text": "Match: Mumbai Indians vs Delhi Daredevils at Feroz Shah Kotla. Winner: Delhi Daredevils. Toss: Mumbai Indians chose bat."}
+{"id": 408, "text": "Match: Pune Warriors vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 409, "text": "Match: Rajasthan Royals vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose bat."}
+{"id": 410, "text": "Match: Royal Challengers Bangalore vs Pune Warriors at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Pune Warriors chose field."}
+{"id": 411, "text": "Match: Kings XI Punjab vs Delhi Daredevils at Himachal Pradesh Cricket Association Stadium. Winner: Kings XI Punjab. Toss: Delhi Daredevils chose field."}
+{"id": 412, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Eden Gardens. Winner: Mumbai Indians. Toss: Kolkata Knight Riders chose bat."}
+{"id": 413, "text": "Match: Sunrisers Hyderabad vs Chennai Super Kings at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 414, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Kings XI Punjab chose bat."}
+{"id": 415, "text": "Match: Sunrisers Hyderabad vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 416, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 417, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Kolkata Knight Riders chose field."}
+{"id": 418, "text": "Match: Delhi Daredevils vs Pune Warriors at Shaheed Veer Narayan Singh International Stadium. Winner: Delhi Daredevils. Toss: Pune Warriors chose field."}
+{"id": 419, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 420, "text": "Match: Mumbai Indians vs Kings XI Punjab at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 421, "text": "Match: Chennai Super Kings vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 422, "text": "Match: Mumbai Indians vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Mumbai Indians chose bat."}
+{"id": 423, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Shaheed Veer Narayan Singh International Stadium. Winner: Delhi Daredevils. Toss: Kolkata Knight Riders chose bat."}
+{"id": 424, "text": "Match: Chennai Super Kings vs Kings XI Punjab at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 425, "text": "Match: Royal Challengers Bangalore vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 426, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Eden Gardens. Winner: Kolkata Knight Riders. Toss: Rajasthan Royals chose bat."}
+{"id": 427, "text": "Match: Delhi Daredevils vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Delhi Daredevils chose bat."}
+{"id": 428, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at M Chinnaswamy Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 429, "text": "Match: Mumbai Indians vs Chennai Super Kings at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 430, "text": "Match: Pune Warriors vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Pune Warriors chose bat."}
+{"id": 431, "text": "Match: Sunrisers Hyderabad vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 432, "text": "Match: Delhi Daredevils vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Delhi Daredevils chose bat."}
+{"id": 433, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at Wankhede Stadium. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 434, "text": "Match: Chennai Super Kings vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Chennai Super Kings. Toss: Sunrisers Hyderabad chose field."}
+{"id": 435, "text": "Match: Kings XI Punjab vs Rajasthan Royals at Punjab Cricket Association Stadium, Mohali. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 436, "text": "Match: Kolkata Knight Riders vs Pune Warriors at Subrata Roy Sahara Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 437, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at Feroz Shah Kotla. Winner: Royal Challengers Bangalore. Toss: Delhi Daredevils chose field."}
+{"id": 438, "text": "Match: Pune Warriors vs Mumbai Indians at Subrata Roy Sahara Stadium. Winner: Mumbai Indians. Toss: Pune Warriors chose bat."}
+{"id": 439, "text": "Match: Sunrisers Hyderabad vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Sunrisers Hyderabad. Toss: Kings XI Punjab chose field."}
+{"id": 440, "text": "Match: Royal Challengers Bangalore vs Kolkata Knight Riders at JSCA International Stadium Complex. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 441, "text": "Match: Chennai Super Kings vs Rajasthan Royals at Sawai Mansingh Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 442, "text": "Match: Delhi Daredevils vs Kings XI Punjab at Feroz Shah Kotla. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 443, "text": "Match: Sunrisers Hyderabad vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 444, "text": "Match: Pune Warriors vs Kolkata Knight Riders at JSCA International Stadium Complex. Winner: Pune Warriors. Toss: Kolkata Knight Riders chose field."}
+{"id": 445, "text": "Match: Chennai Super Kings vs Delhi Daredevils at MA Chidambaram Stadium, Chepauk. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 446, "text": "Match: Mumbai Indians vs Rajasthan Royals at Wankhede Stadium. Winner: Mumbai Indians. Toss: Rajasthan Royals chose field."}
+{"id": 447, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at Punjab Cricket Association Stadium, Mohali. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 448, "text": "Match: Sunrisers Hyderabad vs Rajasthan Royals at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 449, "text": "Match: Kings XI Punjab vs Mumbai Indians at Himachal Pradesh Cricket Association Stadium. Winner: Kings XI Punjab. Toss: Mumbai Indians chose field."}
+{"id": 450, "text": "Match: Pune Warriors vs Delhi Daredevils at Subrata Roy Sahara Stadium. Winner: Pune Warriors. Toss: Pune Warriors chose bat."}
+{"id": 451, "text": "Match: Royal Challengers Bangalore vs Chennai Super Kings at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Chennai Super Kings chose field."}
+{"id": 452, "text": "Match: Kolkata Knight Riders vs Sunrisers Hyderabad at Rajiv Gandhi International Stadium, Uppal. Winner: Sunrisers Hyderabad. Toss: Kolkata Knight Riders chose bat."}
+{"id": 453, "text": "Match: Chennai Super Kings vs Mumbai Indians at Feroz Shah Kotla. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 454, "text": "Match: Sunrisers Hyderabad vs Rajasthan Royals at Feroz Shah Kotla. Winner: Rajasthan Royals. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 455, "text": "Match: Rajasthan Royals vs Mumbai Indians at Eden Gardens. Winner: Mumbai Indians. Toss: Rajasthan Royals chose bat."}
+{"id": 456, "text": "Match: Mumbai Indians vs Chennai Super Kings at Eden Gardens. Winner: Mumbai Indians. Toss: Mumbai Indians chose bat."}
+{"id": 457, "text": "Match: Kolkata Knight Riders vs Mumbai Indians at Sheikh Zayed Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose bat."}
+{"id": 458, "text": "Match: Delhi Daredevils vs Royal Challengers Bangalore at Sharjah Cricket Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 459, "text": "Match: Chennai Super Kings vs Kings XI Punjab at Sheikh Zayed Stadium. Winner: Kings XI Punjab. Toss: Chennai Super Kings chose bat."}
+{"id": 460, "text": "Match: Sunrisers Hyderabad vs Rajasthan Royals at Sheikh Zayed Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 461, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Dubai International Cricket Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 462, "text": "Match: Kolkata Knight Riders vs Delhi Daredevils at Dubai International Cricket Stadium. Winner: Delhi Daredevils. Toss: Kolkata Knight Riders chose bat."}
+{"id": 463, "text": "Match: Rajasthan Royals vs Kings XI Punjab at Sharjah Cricket Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 464, "text": "Match: Chennai Super Kings vs Delhi Daredevils at Sheikh Zayed Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 465, "text": "Match: Kings XI Punjab vs Sunrisers Hyderabad at Sharjah Cricket Stadium. Winner: Kings XI Punjab. Toss: Sunrisers Hyderabad chose field."}
+{"id": 466, "text": "Match: Chennai Super Kings vs Rajasthan Royals at Dubai International Cricket Stadium. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose field."}
+{"id": 467, "text": "Match: Kolkata Knight Riders vs Royal Challengers Bangalore at Sharjah Cricket Stadium. Winner: Kolkata Knight Riders. Toss: Royal Challengers Bangalore chose field."}
+{"id": 468, "text": "Match: Sunrisers Hyderabad vs Delhi Daredevils at Dubai International Cricket Stadium. Winner: Sunrisers Hyderabad. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 469, "text": "Match: Mumbai Indians vs Chennai Super Kings at Dubai International Cricket Stadium. Winner: Chennai Super Kings. Toss: Mumbai Indians chose bat."}
+{"id": 470, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at Sheikh Zayed Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 471, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Sheikh Zayed Stadium. Winner: Kings XI Punjab. Toss: Kolkata Knight Riders chose field."}
+{"id": 472, "text": "Match: Mumbai Indians vs Delhi Daredevils at Sharjah Cricket Stadium. Winner: Delhi Daredevils. Toss: Mumbai Indians chose bat."}
+{"id": 473, "text": "Match: Sunrisers Hyderabad vs Chennai Super Kings at Sharjah Cricket Stadium. Winner: Chennai Super Kings. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 474, "text": "Match: Royal Challengers Bangalore vs Kings XI Punjab at Dubai International Cricket Stadium. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 475, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sheikh Zayed Stadium. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose bat."}
+{"id": 476, "text": "Match: Sunrisers Hyderabad vs Mumbai Indians at Dubai International Cricket Stadium. Winner: Sunrisers Hyderabad. Toss: Mumbai Indians chose field."}
+{"id": 477, "text": "Match: Chennai Super Kings vs Kolkata Knight Riders at JSCA International Stadium Complex. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose bat."}
+{"id": 478, "text": "Match: Kings XI Punjab vs Mumbai Indians at Wankhede Stadium. Winner: Mumbai Indians. Toss: Kings XI Punjab chose bat."}
+{"id": 479, "text": "Match: Delhi Daredevils vs Rajasthan Royals at Feroz Shah Kotla. Winner: Rajasthan Royals. Toss: Rajasthan Royals chose field."}
+{"id": 480, "text": "Match: Sunrisers Hyderabad vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Royal Challengers Bangalore chose field."}
+{"id": 481, "text": "Match: Rajasthan Royals vs Kolkata Knight Riders at Sardar Patel Stadium, Motera. Winner: Rajasthan Royals. Toss: Kolkata Knight Riders chose field."}
+{"id": 482, "text": "Match: Delhi Daredevils vs Chennai Super Kings at Feroz Shah Kotla. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 483, "text": "Match: Mumbai Indians vs Royal Challengers Bangalore at Wankhede Stadium. Winner: Mumbai Indians. Toss: Royal Challengers Bangalore chose field."}
+{"id": 484, "text": "Match: Delhi Daredevils vs Kolkata Knight Riders at Feroz Shah Kotla. Winner: Kolkata Knight Riders. Toss: Delhi Daredevils chose bat."}
+{"id": 485, "text": "Match: Kings XI Punjab vs Chennai Super Kings at Barabati Stadium. Winner: Kings XI Punjab. Toss: Chennai Super Kings chose field."}
+{"id": 486, "text": "Match: Sunrisers Hyderabad vs Rajasthan Royals at Sardar Patel Stadium, Motera. Winner: Sunrisers Hyderabad. Toss: Rajasthan Royals chose field."}
+{"id": 487, "text": "Match: Kings XI Punjab vs Royal Challengers Bangalore at M Chinnaswamy Stadium. Winner: Kings XI Punjab. Toss: Royal Challengers Bangalore chose field."}
+{"id": 488, "text": "Match: Delhi Daredevils vs Sunrisers Hyderabad at Feroz Shah Kotla. Winner: Sunrisers Hyderabad. Toss: Sunrisers Hyderabad chose field."}
+{"id": 489, "text": "Match: Mumbai Indians vs Chennai Super Kings at Wankhede Stadium. Winner: Chennai Super Kings. Toss: Chennai Super Kings chose field."}
+{"id": 490, "text": "Match: Kings XI Punjab vs Kolkata Knight Riders at Barabati Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 491, "text": "Match: Royal Challengers Bangalore vs Rajasthan Royals at M Chinnaswamy Stadium. Winner: Rajasthan Royals. Toss: Royal Challengers Bangalore chose bat."}
+{"id": 492, "text": "Match: Sunrisers Hyderabad vs Mumbai Indians at Rajiv Gandhi International Stadium, Uppal. Winner: Mumbai Indians. Toss: Sunrisers Hyderabad chose bat."}
+{"id": 493, "text": "Match: Rajasthan Royals vs Chennai Super Kings at JSCA International Stadium Complex. Winner: Chennai Super Kings. Toss: Rajasthan Royals chose bat."}
+{"id": 494, "text": "Match: Royal Challengers Bangalore vs Delhi Daredevils at M Chinnaswamy Stadium. Winner: Royal Challengers Bangalore. Toss: Delhi Daredevils chose field."}
+{"id": 495, "text": "Match: Sunrisers Hyderabad vs Kings XI Punjab at Rajiv Gandhi International Stadium, Uppal. Winner: Kings XI Punjab. Toss: Kings XI Punjab chose field."}
+{"id": 496, "text": "Match: Mumbai Indians vs Kolkata Knight Riders at Barabati Stadium. Winner: Kolkata Knight Riders. Toss: Kolkata Knight Riders chose field."}
+{"id": 497, "text": "Match: Rajasthan Royals vs Delhi Daredevils at Sardar Patel Stadium, Motera. Winner: Rajasthan Royals. Toss: Delhi Daredevils chose field."}
+{"id": 498, "text": "Match: Chennai Super Kings vs Royal Challengers Bangalore at JSCA International Stadium Complex. Winner: Royal Challengers Bangalore. Toss: Chennai Super Kings chose bat."}
+{"id": 499, "text": "Match: Sunrisers Hyderabad vs Kolkata Knight Riders at Rajiv Gandhi International Stadium, Uppal. Winner: Kolkata Knight Riders. Toss: Sunrisers Hyderabad chose bat."}
